@@ -31,7 +31,8 @@ int main() {
 
 ```
 ## OUTPUT
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/756a302f-4111-42ce-bb7d-101996402ff2)
+
 		       	
 
 
